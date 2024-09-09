@@ -1,2 +1,2 @@
-# ML-Projects---
-(currently future) ML Projects that I have done over time
+# ML-Projects ^-^
+N/A (as for now :D)
